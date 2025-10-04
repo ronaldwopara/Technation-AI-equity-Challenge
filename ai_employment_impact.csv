@@ -1,0 +1,43 @@
+Province,Industry,Total Workers,Workers Exposed,Impact Timeline
+Ontario,Healthcare,909000,554490,Medium
+Ontario,Manufacturing,754000,271440,Medium
+Ontario,Retail,557000,334200,Immediate
+Ontario,Finance & Insurance,412000,403760,Immediate
+Ontario,Professional & Technical Services,662000,609040,Immediate
+Ontario,Transportation & Warehousing,318000,108120,Long-term
+Ontario,Natural Resources,98000,31360,Long-term
+Quebec,Healthcare,642000,391620,Medium
+Quebec,Manufacturing,452000,162720,Medium
+Quebec,Retail,418000,250800,Immediate
+Quebec,Finance & Insurance,205000,200900,Immediate
+Quebec,Professional & Technical Services,312000,287040,Immediate
+Quebec,Transportation & Warehousing,215000,73100,Long-term
+Quebec,Natural Resources,87000,27840,Long-term
+British Columbia,Healthcare,312000,190320,Medium
+British Columbia,Manufacturing,172000,61920,Medium
+British Columbia,Retail,267000,160200,Immediate
+British Columbia,Finance & Insurance,128000,125440,Immediate
+British Columbia,Professional & Technical Services,256000,235520,Immediate
+British Columbia,Transportation & Warehousing,132000,44880,Long-term
+British Columbia,Natural Resources,78000,24960,Long-term
+Alberta,Healthcare,289000,176290,Medium
+Alberta,Manufacturing,122000,43920,Medium
+Alberta,Retail,246000,147600,Immediate
+Alberta,Finance & Insurance,142000,139160,Immediate
+Alberta,Professional & Technical Services,218000,200560,Immediate
+Alberta,Transportation & Warehousing,131000,44540,Long-term
+Alberta,Natural Resources,135000,43200,Long-term
+Manitoba,Healthcare,98000,59780,Medium
+Manitoba,Manufacturing,58000,20880,Medium
+Manitoba,Retail,85000,51000,Immediate
+Manitoba,Finance & Insurance,42000,41160,Immediate
+Manitoba,Professional & Technical Services,48000,44160,Immediate
+Manitoba,Transportation & Warehousing,42000,14280,Long-term
+Manitoba,Natural Resources,28000,8960,Long-term
+Saskatchewan,Healthcare,72000,43920,Medium
+Saskatchewan,Manufacturing,34000,12240,Medium
+Saskatchewan,Retail,68000,40800,Immediate
+Saskatchewan,Finance & Insurance,28000,27440,Immediate
+Saskatchewan,Professional & Technical Services,38000,34960,Immediate
+Saskatchewan,Transportation & Warehousing,38000,12920,Long-term
+Saskatchewan,Natural Resources,52000,16640,Long-term

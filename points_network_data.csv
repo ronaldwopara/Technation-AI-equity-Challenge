@@ -1,0 +1,370 @@
+Points,Groups,Employment count
+Agriculture,A,370600
+Farmers,A,89300
+Agricultural workers,A,234500
+Forestry workers,A,34500
+Fishing vessel operators,A,12300
+Arts/ Entertainment,B,406600
+Musicians,B,18900
+Actors,B,8900
+Fitness instructors,B,34500
+Sound engineers,B,12300
+Film directors,B,5600
+Producers,B,8900
+Event planners,B,34500
+Tour guides,B,23400
+Recreation coordinators,B,45600
+Coaches,B,34500
+Athletes,B,8900
+Casino workers,B,45600
+Curators,B,5600
+Recreation attendants,B,23400
+Lifeguards,B,34500
+Ski instructors,B,5600
+Golf instructors,B,3400
+Tennis instructors,B,2300
+Yoga instructors,B,12300
+Dance instructors,B,8900
+Martial arts instructors,B,5600
+Personal trainers,B,23400
+Construction,C,1220200
+Construction trades helpers,C,125600
+Electricians,C,98400
+Civil engineers,C,67200
+Plumbers,C,87900
+Carpenters,C,124500
+Building inspectors,C,34500
+Crane operators,C,45600
+Heavy equipment operators,C,89300
+Roofers,C,67800
+Drywall installers,C,56700
+Painters and decorators,C,78900
+Floor installers,C,45600
+Glaziers,C,34500
+Insulation workers,C,23400
+Concrete finishers,C,56700
+Bricklayers,C,45600
+Tile setters,C,34500
+Plasterers,C,23400
+HVAC technicians,C,67800
+Elevator technicians,C,12300
+Education,D,957800
+Elementary school teachers,D,185200
+Secondary school teachers,D,167800
+Early childhood educators,D,89300
+Librarians,D,12300
+Research assistants,D,67800
+University professors,D,45600
+College instructors,D,34500
+Teaching assistants,D,89300
+Tutors,D,34500
+Educational counselors,D,23400
+School principals,D,12300
+Childcare workers,D,145600
+School counselors,D,23400
+Career counselors,D,12300
+Academic advisors,D,8900
+Admissions counselors,D,5600
+Financial Services,E,696700
+Data scientists,E,42300
+Financial managers,E,112400
+Customer service representatives,E,178900
+Database analysts,E,48900
+Insurance agents,E,67800
+Bank tellers,E,89300
+Actuaries,E,5600
+Mortgage brokers,E,34500
+Investment advisors,E,23400
+Financial planners,E,45600
+Credit counselors,E,12300
+Compliance officers,E,23400
+Risk managers,E,12300
+Government,F,538500
+Human resources managers,F,45600
+Administrative assistants,F,234500
+Police officers,F,78900
+Court reporters,F,5600
+Probation officers,F,12300
+Firefighters,F,34500
+Urban planners,F,8900
+Archivists,F,3400
+Conservation scientists,F,8900
+Meteorologists,F,3400
+Economists,F,8900
+Policy analysts,F,23400
+Procurement officers,F,34500
+Labor relations officers,F,8900
+Health and safety inspectors,F,12300
+Public health inspectors,F,8900
+Environmental health officers,F,5600
+Healthcare,G,1890100
+Registered nurses,G,298500
+Pharmacists,G,42300
+Social workers,G,68900
+Dental hygienists,G,34500
+Physiotherapists,G,45600
+Paramedics,G,34500
+Veterinarians,G,12300
+Dental assistants,G,56700
+Medical laboratory technologists,G,45600
+Opticians,G,23400
+Dietitians,G,12300
+Psychologists,G,8900
+Biomedical engineers,G,3400
+Veterinary technicians,G,34500
+Biologists,G,12300
+Occupational therapists,G,34500
+Speech therapists,G,12300
+Audiologists,G,3400
+Respiratory therapists,G,23400
+Medical radiation technologists,G,34500
+Midwives,G,8900
+Nurse practitioners,G,12300
+Chiropractors,G,5600
+Massage therapists,G,23400
+Acupuncturists,G,8900
+Personal support workers,G,234500
+Optometrists,G,8900
+Dentists,G,12300
+Physicians,G,34500
+Surgeons,G,3400
+Anesthesiologists,G,2300
+Psychiatrists,G,3400
+Radiologists,G,1200
+Pathologists,G,800
+Pediatricians,G,2300
+Cardiologists,G,1800
+Emergency physicians,G,5600
+Family physicians,G,23400
+Nutritionists,G,8900
+Kinesiologists,G,12300
+Athletic therapists,G,5600
+Naturopaths,G,3400
+Homeopaths,G,1200
+Osteopaths,G,2300
+Medical secretaries,G,89300
+Medical transcriptionists,G,34500
+Medical coders,G,23400
+Medical billers,G,12300
+Unit clerks,G,45600
+Ward aides,G,67800
+Orderlies,G,34500
+Pharmacy assistants,G,56700
+Pharmacy technicians,G,34500
+Lab assistants,G,23400
+Phlebotomists,G,12300
+EKG technicians,G,8900
+Ultrasound technicians,G,12300
+X-ray technicians,G,23400
+MRI technicians,G,8900
+CT technicians,G,5600
+Nuclear medicine technologists,G,3400
+Dialysis technicians,G,5600
+Sleep technicians,G,2300
+Surgical technologists,G,8900
+Anesthesia assistants,G,3400
+Sterile processing technicians,G,12300
+Orthotists,G,2300
+Prosthetists,G,1200
+Medical illustrators,G,800
+Health information managers,G,8900
+Clinical research coordinators,G,12300
+Biostatisticians,G,5600
+Epidemiologists,G,3400
+Genetic counselors,G,2300
+Perfusionists,G,800
+Dosimetrists,G,450
+Cytotechnologists,G,1200
+Histotechnologists,G,2300
+Lactation consultants,G,3400
+Doulas,G,2300
+Art therapists,G,1200
+Music therapists,G,800
+Recreation therapists,G,2300
+Horticultural therapists,G,450
+Animal-assisted therapists,G,600
+Geriatric care managers,G,3400
+Rehabilitation counselors,G,5600
+Substance abuse counselors,G,8900
+Mental health counselors,G,12300
+Marriage counselors,G,3400
+Family counselors,G,5600
+Hospitality,H,1436900
+Food service supervisors,H,89200
+Chefs,H,45600
+Restaurant managers,H,67800
+Hotel managers,H,34500
+Laundry workers,H,45600
+Travel agents,H,23400
+Hotel clerks,H,45600
+Concierges,H,12300
+Bellhops,H,8900
+Room attendants,H,67800
+Servers,H,234500
+Bartenders,H,89300
+Hosts,H,34500
+Food counter attendants,H,145600
+Kitchen helpers,H,189300
+Dishwashers,H,89300
+Cooks,H,156700
+Sous chefs,H,23400
+Pastry chefs,H,8900
+Sommelier,H,3400
+Catering coordinators,H,12300
+Banquet managers,H,5600
+Spa managers,H,3400
+Information and Technology,I,817200
+Software engineers and designers,I,89500
+Marketing specialists,I,67800
+Graphic designers,I,28900
+Web developers,I,56700
+Journalists,I,23400
+Photographers,I,12300
+Network administrators,I,56700
+Cybersecurity specialists,I,23400
+Cloud architects,I,12300
+DevOps engineers,I,18900
+Machine learning engineers,I,8900
+UX/UI designers,I,34500
+Game developers,I,23400
+Mobile app developers,I,45600
+Quality assurance analysts,I,67800
+Technical writers,I,23400
+Content creators,I,45600
+Video editors,I,34500
+IT consultants,I,67800
+Telecommunications technicians,I,34500
+Cable installers,I,23400
+Broadcast technicians,I,12300
+Radio operators,I,5600
+Manufacturing,J,1648600
+Mechanical engineers,J,42100
+Supply chain analysts,J,56700
+Welders,J,67800
+Aerospace engineers,J,8900
+Chemical engineers,J,12300
+Operations managers,J,145600
+Fashion designers,J,12300
+Industrial designers,J,8900
+Chemists,J,23400
+Quality control inspectors,J,67800
+Production supervisors,J,89300
+Assembly line workers,J,234500
+Machine operators,J,145600
+Tool and die makers,J,23400
+Machinists,J,45600
+Sheet metal workers,J,34500
+Electronics assemblers,J,67800
+Process control operators,J,23400
+Chemical plant operators,J,12300
+Print operators,J,34500
+Packaging workers,J,89300
+Food processing workers,J,145600
+Refrigeration mechanics,J,34500
+Millwrights,J,45600
+Electronics technicians,J,56700
+Instrumentation technicians,J,34500
+Industrial electricians,J,67800
+Upholsterers,J,12300
+Shoemakers,J,5600
+Mining,K,22400
+Mining engineers,K,5600
+Petroleum engineers,K,4500
+Geologists,K,12300
+Professional Services,P,1862200
+Accountants,P,198400
+Lawyers,P,89300
+Architects,P,34500
+Security guards,P,145600
+Receptionists,P,189300
+Translators,P,23400
+Environmental engineers,P,12300
+Business analysts,P,134500
+Project managers,P,178900
+Surveyors,P,23400
+Interior designers,P,34500
+Physicists,P,5600
+Statisticians,P,8900
+Tax preparers,P,67800
+Bookkeepers,P,145600
+Payroll administrators,P,89300
+Immigration consultants,P,12300
+Paralegals,P,34500
+Legal secretaries,P,56700
+Patent agents,P,3400
+Auditors,P,67800
+Forensic accountants,P,5600
+Management consultants,P,45600
+Strategy analysts,P,34500
+Change management specialists,P,23400
+Training specialists,P,56700
+Recruitment specialists,P,45600
+Compensation analysts,P,12300
+Benefits administrators,P,34500
+Office equipment technicians,P,23400
+Locksmiths,P,12300
+Funeral directors,P,8900
+Embalmers,P,3400
+Real Estate,L,425800
+Real estate agents,L,45600
+Janitors,L,234500
+Landscapers,L,67800
+Property managers,L,56700
+Home inspectors,L,12300
+Appraisers,L,8900
+Retail,M,2361500
+Retail salespersons,M,556300
+Cashiers,M,445600
+Sales managers,M,89300
+Retail managers,M,234500
+Bakers,M,67800
+Butchers,M,34500
+Florists,M,12300
+Jewelers,M,8900
+Store managers,M,156700
+Inventory clerks,M,234500
+Auto mechanics,M,89300
+Auto body repairers,M,34500
+Parts specialists,M,56700
+Service advisors,M,45600
+Small engine mechanics,M,23400
+Appliance servicers,M,34500
+Computer repair technicians,M,45600
+Watch repairers,M,8900
+Tailors,M,8900
+Dry cleaners,M,23400
+Hairstylists,M,67800
+Barbers,M,12300
+Estheticians,M,34500
+Manicurists,M,23400
+Pet groomers,M,12300
+Transportation,N,1491300
+Truck drivers,N,302100
+Warehouse supervisors,N,89300
+Dispatchers,N,56700
+Delivery drivers,N,178900
+Bus drivers,N,89300
+Taxi drivers,N,67800
+Train engineers,N,12300
+Pilots,N,8900
+Air traffic controllers,N,3400
+Ship engineers,N,5600
+Customs brokers,N,23400
+Stock handlers,N,189300
+Forklift operators,N,145600
+Shipping clerks,N,89300
+Logistics coordinators,N,67800
+Diesel mechanics,N,34500
+Aircraft mechanics,N,23400
+Avionics technicians,N,8900
+Marine mechanics,N,12300
+Railway carmen,N,12300
+Flight attendants,N,12300
+Ticket agents,N,34500
+Car rental agents,N,23400
+Utilities,O,62500
+Power engineers,O,8900
+Water treatment operators,O,12300
+Gas utility operators,O,5600
+Electrical technicians,O,23400
+Power line technicians,O,12300
